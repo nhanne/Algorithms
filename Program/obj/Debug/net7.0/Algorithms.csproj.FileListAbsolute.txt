@@ -1,0 +1,14 @@
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\bin\Debug\net7.0\Algorithms.exe
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\bin\Debug\net7.0\Algorithms.deps.json
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\bin\Debug\net7.0\Algorithms.runtimeconfig.json
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\bin\Debug\net7.0\Algorithms.dll
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\bin\Debug\net7.0\Algorithms.pdb
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.AssemblyInfo.cs
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.dll
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\refint\Algorithms.dll
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.pdb
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\Algorithms.genruntimeconfig.cache
+C:\Users\nhanc\Desktop\Algorithms\Algorithms\SelectionSort\obj\Debug\net7.0\ref\Algorithms.dll
